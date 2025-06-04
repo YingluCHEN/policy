@@ -1,0 +1,72 @@
+{
+  "verification_time": "2025-06-04T12:24:50.204137",
+  "summary": {
+    "total_urls": 5,
+    "valid_urls": 5,
+    "invalid_urls": 0,
+    "success_rate": 100.0,
+    "average_quality_score": 54.0
+  },
+  "results": [
+    {
+      "url": "https://www.xuhui.gov.cn/xxgk/portal/article/detail?id=8a4c0c0692292eab0194a6f4d71614b0",
+      "policy_title": "徐汇区关于推动人工智能产业高质量发展的若干意见",
+      "status_code": 200,
+      "is_valid": true,
+      "content_length": 67228,
+      "verification_time": "2025-06-04T12:24:44.499798",
+      "error": null,
+      "is_xuhui_gov": true,
+      "has_policy_content": true,
+      "quality_score": 73
+    },
+    {
+      "url": "https://www.xuhui.gov.cn/xxgk/portal/article/detail?id=8a4c0c0692292eab0194a6f27fb814ac",
+      "policy_title": "徐汇区关于推动具身智能产业发展的若干意见",
+      "status_code": 200,
+      "is_valid": true,
+      "content_length": 57032,
+      "verification_time": "2025-06-04T12:24:45.685007",
+      "error": null,
+      "is_xuhui_gov": true,
+      "has_policy_content": true,
+      "quality_score": 73
+    },
+    {
+      "url": "https://www.xuhui.gov.cn/xxgk/portal/article/detail?id=8a4c0c0692292eab019384dc95a70aed",
+      "policy_title": "关于支持上海市生成式人工智能创新生态先导区的若干措施",
+      "status_code": 200,
+      "is_valid": true,
+      "content_length": 64111,
+      "verification_time": "2025-06-04T12:24:46.865543",
+      "error": null,
+      "is_xuhui_gov": true,
+      "has_policy_content": true,
+      "quality_score": 78
+    },
+    {
+      "url": "https://www.xuhui.gov.cn/xxgk/portal/article/organizationArticle?code=xhxxgk_wbj_kjw&page=1",
+      "policy_title": "徐汇区科委政策列表页面",
+      "status_code": 200,
+      "is_valid": true,
+      "content_length": 24776,
+      "verification_time": "2025-06-04T12:24:48.038173",
+      "error": null,
+      "is_xuhui_gov": true,
+      "has_policy_content": true,
+      "quality_score": 23
+    },
+    {
+      "url": "https://www.xuhui.gov.cn",
+      "policy_title": "徐汇区政府官网首页",
+      "status_code": 200,
+      "is_valid": true,
+      "content_length": 64675,
+      "verification_time": "2025-06-04T12:24:49.196898",
+      "error": null,
+      "is_xuhui_gov": true,
+      "has_policy_content": false,
+      "quality_score": 23
+    }
+  ]
+}
